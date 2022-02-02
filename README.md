@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitri Banshchikov
 - 👀 I’m interested in IT
-- 🌱 I’m currently immersed in the study of .NET Framework.
+- 🌱 I’m currently immersed in the study of .NET Core.
 - 💞️ I’m looking to collaborate on Shopify projects
 - 📫 How to reach me https://www.linkedin.com/in/dbanshchikov/
 
