@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dmitri Banshchikov
 - 👀 I’m interested in software development 
 - 🌱 I’m currently immersed in the study of Power Apps.
-- 💞️ I’m looking to collaborate on Shopify projects
+- 💞️ Continuous Upskilling
 - 📫 How to reach me https://www.linkedin.com/in/dbanshchikov/
 
 <!---
